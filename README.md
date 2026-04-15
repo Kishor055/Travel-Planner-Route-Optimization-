@@ -85,6 +85,14 @@ This project demonstrates full-stack development, API integration, and implement
 
 ---
 
+## 🚀 Advanced Features
+
+🗺️ Google Maps live route rendering – Displays real-time routes directly on the map using Google Maps API.  
+🔀 Drag & drop destinations – Allows users to easily reorder stops for custom trip planning.  
+📏 Real distance calculation (Distance Matrix API) – Computes accurate travel distance and time between multiple locations.  
+🔐 Login + saved trips system – Enables user authentication and stores personalized trip data securely.  
+🧠 Advanced TSP optimization algorithm – Implements an improved Traveling Salesman approach for optimal route planning.
+
 ## 🏁 Outcome
 
 A fully functional travel planning system that demonstrates practical use of APIs, full-stack development, and algorithmic optimization for real-world navigation problems.
